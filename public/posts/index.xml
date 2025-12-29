@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>全部文章 on JustHost 实验室</title>
+    <link>https://justhostreview.github.io/posts/</link>
+    <description>Recent content in 全部文章 on JustHost 实验室</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 优惠码最新汇总 - 持续更新有效折扣代码</title>
+      <link>https://justhostreview.github.io/posts/justhost-promo-codes/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-promo-codes/</guid>
+      <description>实时更新 JustHost 最新优惠码和促销代码，涵盖 VPS 主机等多种产品的有效折扣信息。所有优惠码均经过验证，确保真实可用，帮助您以最优惠、最省心的价格购买 JustHost 主机服务。</description>
+    </item>
+  </channel>
+</rss>
