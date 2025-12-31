@@ -6,8 +6,15 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost VPS 更换机房或 IP 地址完整操作指南</title>
+      <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-genghuan-jifang/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-genghuan-jifang/</guid>
+      <description>详细讲解 JustHost VPS 更换机房位置或 IP 地址的完整流程，包括数据备份、提交工单申请、机房迁移步骤、DNS 解析更新以及迁移后的配置测试方法，并提供常见问题解决方案，帮助用户安全高效地完成服务器迁移操作。</description>
+    </item>
     <item>
       <title>JustHost VPS 购买完整教程：从注册到付款的详细步骤</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-vps-goumai-jiaocheng/</link>
