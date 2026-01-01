@@ -6,8 +6,15 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 荷兰阿姆斯特丹机房速度测评，最新实测数据分享</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/amsterdam-netherlands-ams2/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/amsterdam-netherlands-ams2/</guid>
+      <description>本文详细测评 JustHost 荷兰阿姆斯特丹数据中心的 VPS 主机性能表现，包括国内三网延迟数据、300M 带宽实际速度、磁盘 IO 读写性能、路由追踪以及晚高峰稳定性测试。通过多项测试数据，帮助您全面了解该机房的真实使用体验。</description>
+    </item>
     <item>
       <title>JustHost VPS 更换机房或 IP 地址完整操作指南</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-genghuan-jifang/</link>
