@@ -16,6 +16,13 @@
       <description>本文详细测评 JustHost 荷兰阿姆斯特丹数据中心的 VPS 主机性能表现，包括国内三网延迟数据、300M 带宽实际速度、磁盘 IO 读写性能、路由追踪以及晚高峰稳定性测试。通过多项测试数据，帮助您全面了解该机房的真实使用体验。</description>
     </item>
     <item>
+      <title>JustHost 美国亚特兰大机房实测：延迟、带宽、路由全面分析</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/atlanta-usa-atl1/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/atlanta-usa-atl1/</guid>
+      <description>本文详细测评 JustHost 亚特兰大数据中心 VPS 性能表现，包括国内三网延迟数据、晚高峰带宽稳定性、回程路由追踪以及 I/O 读写速度等关键指标。通过多维度评估，为选择美国东海岸机房的用户提供真实参考依据。</description>
+    </item>
+    <item>
       <title>JustHost VPS 更换机房或 IP 地址完整操作指南</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-genghuan-jifang/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
