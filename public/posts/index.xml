@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 罗马尼亚布加勒斯特 OTP1 机房速度与性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/bucharest-romania-otp1/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/bucharest-romania-otp1/</guid>
+      <description>详细测评 JustHost 布加勒斯特 OTP1 数据中心的 Sirius 基础款 VPS 表现，包含网络延迟、带宽速度、I/O 性能等核心指标。实测 1 核 1GB 配置在东欧机房的实际表现，分析 300Mbps 带宽的真实体验，为需要欧洲节点的用户提供参考数据。</description>
+    </item>
+    <item>
+      <title>JustHost 美国芝加哥机房速度怎么样？基础款 VPS 实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/chicago-usa-chi1/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/chicago-usa-chi1/</guid>
+      <description>本文深度测评 JustHost 芝加哥数据中心 Sirius 基础款 VPS 的整体性能与稳定性表现，涵盖三网延迟、丢包率、磁盘 IO 速度等多项关键指标，全面帮助您了解这款月付 5.86 美元 VPS 在实际应用场景中的真实使用体验与性价比表现。</description>
+    </item>
     <item>
       <title>JustHost 荷兰阿姆斯特丹机房速度测评，最新实测数据分享</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/amsterdam-netherlands-ams2/</link>
