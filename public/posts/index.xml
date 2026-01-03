@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 爱尔兰都柏林机房 Sirius 套餐 VPS 性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/dublin-ireland-dub1/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/dublin-ireland-dub1/</guid>
+      <description>分享 JustHost 都柏林数据中心 Sirius 基础款 VPS 实测数据，包含国内三网延迟、带宽速度、路由追踪等详细测试结果，从稳定性、速度与价格角度全面分析爱尔兰机房连接大陆的真实表现和性价比参考。</description>
+    </item>
+    <item>
+      <title>JustHost 美国达拉斯机房 VPS 速度与延迟深度测评</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/dallas-usa-dal1/</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/dallas-usa-dal1/</guid>
+      <description>分享 JustHost 达拉斯数据中心基础款 VPS 实测数据，包括国内三网延迟、带宽速度、路由追踪等关键性能指标。采用 Sirius 套餐配置进行全方位测试，为有美国西南部节点需求的用户提供真实参考依据。</description>
+    </item>
     <item>
       <title>JustHost 罗马尼亚布加勒斯特 OTP1 机房速度与性能实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/bucharest-romania-otp1/</link>
