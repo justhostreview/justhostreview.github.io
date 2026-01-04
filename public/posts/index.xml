@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 法兰克福机房实测：延迟、速度与稳定性全面评测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/frankfurt-germany-fra2/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/frankfurt-germany-fra2/</guid>
+      <description>本文详细测评 JustHost 德国法兰克福数据中心的 Sirius 基础款 VPS 实际性能表现，包括国内三网延迟数据、带宽速度测试、路由追踪分析以及长时间稳定性监控结果，为选择欧洲机房的用户提供真实可靠的参考依据。</description>
+    </item>
+    <item>
+      <title>JustHost 香港机房 VPS 速度与延迟实测：1 核 1G 真实体验</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/hong-kong-china-hkg1/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/hong-kong-china-hkg1/</guid>
+      <description>本文分享 JustHost 香港数据中心基础款 VPS 的实际测试数据，包括国内三网延迟、带宽速度、路由追踪等关键指标。通过对 Sirius 套餐（1核1G内存20G硬盘）的深度测评，帮助您了解这款月付5.86美元 VPS 在中国大陆访问的真实表现。</description>
+    </item>
     <item>
       <title>JustHost 爱尔兰都柏林机房 Sirius 套餐 VPS 性能实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/dublin-ireland-dub1/</link>
