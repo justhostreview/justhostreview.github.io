@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 如何申请退款？详细退款流程与注意事项</title>
+      <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-tuikuan-jiaocheng/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-tuikuan-jiaocheng/</guid>
+      <description>本文详细介绍 JustHost 主机服务的退款申请流程，包括退款政策解读、具体操作步骤、常见问题处理方法，以及申请退款时需要注意的时间限制和条件要求，帮助用户顺利完成退款操作。</description>
+    </item>
+    <item>
+      <title>JustHost 伊斯坦布尔机房，土耳其 VPS 性能实测数据分享</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/istanbul-turkey-ist1/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/istanbul-turkey-ist1/</guid>
+      <description>详细测评 JustHost 土耳其伊斯坦布尔机房 Sirius 套餐性能表现，包含国内三网延迟、下载速度、路由追踪等真实数据。基础款 1 核 1G 配置在欧洲地区的连接质量如何？本文通过多维度实测为您揭晓答案。</description>
+    </item>
     <item>
       <title>JustHost 法兰克福机房实测：延迟、速度与稳定性全面评测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/frankfurt-germany-fra2/</link>
