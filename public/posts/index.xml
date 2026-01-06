@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 俄罗斯喀山性能与速度实测数据分享</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/kazan-russia-kaz1/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/kazan-russia-kaz1/</guid>
+      <description>详细测评 JustHost 俄罗斯喀山（Kazan Russia）机房 VPS 性能表现，包括网络延迟、带宽速度、I/O 性能等核心指标实测。基础款 Sirius VPS 俄罗斯机房直订仅需 $3.51/月，适合需要俄罗斯本地网络环境的用户。</description>
+    </item>
+    <item>
+      <title>VPS 跨国速度慢怎么办？开启 BBR 加速的详细教程</title>
+      <link>https://justhostreview.github.io/posts/vps-tutorials/justhost-bbr-jiasu/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/vps-tutorials/justhost-bbr-jiasu/</guid>
+      <description>详细讲解 JustHost 速度慢的原因分析，介绍 BBR 拥塞控制算法的工作原理与优势，包含完整的 BBR 启用配置步骤、验证方法、性能优化建议和常见问题排查方案，帮助用户显著提升服务器网络传输速度。</description>
+    </item>
     <item>
       <title>JustHost 如何申请退款？详细退款流程与注意事项</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-tuikuan-jiaocheng/</link>

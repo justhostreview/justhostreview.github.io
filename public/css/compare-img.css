@@ -1,0 +1,192 @@
+/* assets/css/compare-img.css */
+
+/* 基础样式 */
+.image-pair {
+    margin: 20px 0;
+}
+
+.image-pair.horizontal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.image-pair.vertical {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+/* 图片项目样式 */
+.image-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #f0f0f0;
+    cursor: zoom-in;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.image-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.image-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.image-item:hover img {
+    transform: scale(1.02);
+}
+
+/* 图片标签 */
+.image-label {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4), transparent);
+    color: white;
+    padding: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background 0.3s ease;
+}
+
+.image-item:hover .image-label {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.5), transparent);
+}
+
+/* 模态框样式 */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.modal.active {
+    display: flex;
+    opacity: 1;
+}
+
+.modal-content {
+    position: relative;
+    width: 90%;
+    max-width: 900px;
+    height: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    animation: zoomIn 0.3s ease;
+}
+
+/* 放大动画 */
+@keyframes zoomIn {
+    from {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* 关闭按钮 */
+.modal-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    line-height: 1;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.modal-close:hover {
+    transform: scale(1.2);
+}
+
+/* 模态框标题 */
+.modal-title {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .image-pair.horizontal {
+        grid-template-columns: 1fr;
+    }
+
+    .image-pair {
+        margin: 15px 0;
+    }
+
+    .image-pair {
+        gap: 15px;
+    }
+
+    .modal-content {
+        width: 95%;
+        height: 95%;
+    }
+
+    .modal-close {
+        top: 10px;
+        right: 15px;
+        font-size: 32px;
+    }
+
+    .modal-title {
+        bottom: 15px;
+        left: 15px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .image-label {
+        padding: 12px;
+        font-size: 12px;
+    }
+
+    .image-pair {
+        gap: 10px;
+    }
+
+    .modal-close {
+        font-size: 28px;
+    }
+}
