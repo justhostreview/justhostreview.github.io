@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost VPS 主机续费步骤与操作方法全流程</title>
+      <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xufei-jiaocheng/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xufei-jiaocheng/</guid>
+      <description>详细讲解 JustHost 主机续费的完整流程，包括自动续费设置方法、手动续费操作步骤、续费周期选择建议、续费时间节点提醒，以及续费过程中的常见问题解答和账户管理技巧。</description>
+    </item>
+    <item>
+      <title>JustHost 摩尔多瓦基希讷乌机房速度测试与性能评测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/kishinev-moldova-kiv1/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/kishinev-moldova-kiv1/</guid>
+      <description>本文详细测评 JustHost 位于摩尔多瓦首都基希讷乌的数据中心，包括网络延迟、带宽速度、I/O 性能等关键指标。通过实际测试 Sirius 基础款 VPS 在东欧地区的连接质量，为需要欧洲节点的用户提供参考数据，帮助您了解这个相对小众但性价比较高的机房选择。</description>
+    </item>
     <item>
       <title>JustHost VPS 套餐升级教程：如何升级到更高配置的方案</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-shengji-jiaocheng/</link>
