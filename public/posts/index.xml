@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 斯洛文尼亚卢布尔雅那机房速度测评</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/ljubljana-slovenia-lju1/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/ljubljana-slovenia-lju1/</guid>
+      <description>详细测评 JustHost 斯洛文尼亚卢布尔雅那数据中心的 Sirius 基础款 VPS 性能表现，包括国内三网延迟、带宽速度、I/O 读写等关键指标，为需要欧洲中部节点的用户提供真实可靠的参考数据。</description>
+    </item>
+    <item>
+      <title>JustHost 英国伦敦机房 VPS 真实性能与网络实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/london-united-kingdom-lon1/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/london-united-kingdom-lon1/</guid>
+      <description>详细测评 JustHost 英国伦敦数据中心基础款 VPS 性能表现，包含国内三网延迟测试、带宽速度实测、路由追踪分析以及长期稳定性监控数据。基于 Sirius 套餐的真实使用体验，为需要欧洲节点的用户提供参考依据。</description>
+    </item>
     <item>
       <title>JustHost VPS 主机续费步骤与操作方法全流程</title>
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xufei-jiaocheng/</link>
