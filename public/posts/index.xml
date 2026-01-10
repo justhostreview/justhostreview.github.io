@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 美国洛杉矶机房 VPS 实测，最新性能深度评测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/los-angeles-usa-qla1/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/los-angeles-usa-qla1/</guid>
+      <description>本文详细测评 JustHost 美国洛杉矶机房 Sirius 基础款 VPS 性能表现，包括国内各地区延迟数据、带宽速度实测、路由追踪分析、I/O 性能跑分以及 24 小时稳定性监控，为选购美国西海岸 VPS 提供真实参考依据。</description>
+    </item>
+    <item>
+      <title>JustHost 西班牙马德里机房 Sirius 基础 VPS 性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/madrid-spain-mad1/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/madrid-spain-mad1/</guid>
+      <description>详细测评 JustHost 马德里数据中心 Sirius 套餐实际表现，包括国内三网延迟、线路走向、I/O 读写速度等核心指标。通过多维度测试数据，为需要欧洲西班牙节点的用户提供真实可靠的选购参考依据。</description>
+    </item>
     <item>
       <title>JustHost 斯洛文尼亚卢布尔雅那机房速度测评</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/ljubljana-slovenia-lju1/</link>
