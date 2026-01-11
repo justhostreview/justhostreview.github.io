@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 俄罗斯莫斯科 MOW1 机房 VPS 性能实测数据</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/moscow-russia-mow1/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/moscow-russia-mow1/</guid>
+      <description>本文对 JustHost 莫斯科 MOW1 机房基础款 VPS 进行全面测评，包括网络延迟、带宽速度、硬件性能等实测数据。该机房月付仅需 $3.51，配置 1 核 CPU、1GB 内存、20GB NVMe 存储和 300Mbps 带宽，适合俄罗斯及东欧地区业务部署需求。</description>
+    </item>
+    <item>
+      <title>JustHost 俄罗斯莫斯科 MOW2 机房深度测评</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/moscow-russia-mow2/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/moscow-russia-mow2/</guid>
+      <description>详细测评 JustHost 莫斯科 MOW2 数据中心基础款 VPS 性能表现,包括 CPU 跑分、硬盘 I/O 速度、国内三网延迟与路由追踪、带宽实测等关键指标,为有俄罗斯 VPS 建站或特定应用需求的用户提供真实参考数据。</description>
+    </item>
     <item>
       <title>JustHost 美国洛杉矶机房 VPS 实测，最新性能深度评测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/los-angeles-usa-qla1/</link>
