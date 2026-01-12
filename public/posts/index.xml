@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 美国纽约机房，性能、延迟全方面测试</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc2/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc2/</guid>
+      <description>本文分享 JustHost 美国纽约数据中心 Sirius 基础款 VPS 的真实测评数据，包括国内三网延迟表现、带宽速度测试、晚高峰稳定性分析以及路由追踪结果。通过跑分、流媒体解锁测试等多维度评估，帮助您了解纽约机房的实际性能表现。</description>
+    </item>
+    <item>
+      <title>如何在 JustHost VPS 上配置 Swap 交换文件？</title>
+      <link>https://justhostreview.github.io/posts/vps-tutorials/justhost-swap-peizhi/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/vps-tutorials/justhost-swap-peizhi/</guid>
+      <description>运行内存不足导致 JustHost VPS 频繁掉线或报错？本文手把手教你如何为 JustHost VPS 配置 Swap 交换文件。包含从创建到持久化设置的全过程，并提供性能优化建议，助你低成本提升服务器稳定性。</description>
+    </item>
     <item>
       <title>JustHost 俄罗斯莫斯科 MOW1 机房 VPS 性能实测数据</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/moscow-russia-mow1/</link>
