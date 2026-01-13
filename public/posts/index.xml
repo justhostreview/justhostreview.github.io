@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 俄罗斯新西伯利亚机房，VPS 性能全面实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/novosibirsk-russia-ovb1/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/novosibirsk-russia-ovb1/</guid>
+      <description>本文分享 JustHost 新西伯利亚数据中心 Sirius 基础款 VPS 实测数据，包括国内三网延迟表现、带宽速度测试、路由追踪分析、I/O 性能跑分以及 24 小时稳定性监控结果，为选择俄罗斯机房 VPS 的用户提供真实参考依据。</description>
+    </item>
+    <item>
+      <title>JustHost 意大利巴勒莫机房，欧洲南部 VPS 延迟与性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/palermo-italy-pmo1/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/palermo-italy-pmo1/</guid>
+      <description>详细测评 JustHost 意大利巴勒莫机房 Sirius 基础款 VPS 性能表现，包含国内三网延迟数据、带宽速度实测、硬盘 IO 性能等关键指标。分析该机房在欧洲南部节点的网络连接质量，为需要意大利或地中海区域服务器的用户提供真实参考数据。</description>
+    </item>
     <item>
       <title>JustHost 美国纽约机房，性能、延迟全方面测试</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc2/</link>
