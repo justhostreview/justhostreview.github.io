@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 法国巴黎 VPS 实测性能与网络表现</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/paris-france-par2/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/paris-france-par2/</guid>
+      <description>本文深度测评 JustHost 法国巴黎数据中心 Sirius 基础款 VPS 性能表现，包含国内多地区延迟数据、带宽速度实测、路由追踪分析。通过真实数据帮助您判断巴黎机房是否适合建站、跨境业务或欧洲地区访问需求。</description>
+    </item>
+    <item>
+      <title>JustHost 美国纽约 NYC1 机房实测，VPS 性能与网络数据全面评测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc1/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc1/</guid>
+      <description>本文详细测评 JustHost 纽约 NYC1 数据中心 Sirius 基础款 VPS 实际表现，包括 CPU 性能跑分、硬盘读写速度、国内三网延迟与路由追踪、晚高峰带宽实测等关键指标，为需要美国东海岸 VPS 的用户提供真实参考数据。</description>
+    </item>
     <item>
       <title>JustHost 俄罗斯新西伯利亚机房，VPS 性能全面实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/novosibirsk-russia-ovb1/</link>
@@ -23,11 +37,11 @@
       <description>详细测评 JustHost 意大利巴勒莫机房 Sirius 基础款 VPS 性能表现，包含国内三网延迟数据、带宽速度实测、硬盘 IO 性能等关键指标。分析该机房在欧洲南部节点的网络连接质量，为需要意大利或地中海区域服务器的用户提供真实参考数据。</description>
     </item>
     <item>
-      <title>JustHost 美国纽约机房，性能、延迟全方面测试</title>
+      <title>JustHost 美国纽约 NYC2 机房，性能、延迟全方面测试</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc2/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://justhostreview.github.io/posts/datacenter-reviews/new-york-usa-nyc2/</guid>
-      <description>本文分享 JustHost 美国纽约数据中心 Sirius 基础款 VPS 的真实测评数据，包括国内三网延迟表现、带宽速度测试、晚高峰稳定性分析以及路由追踪结果。通过跑分、流媒体解锁测试等多维度评估，帮助您了解纽约机房的实际性能表现。</description>
+      <description>本文分享 JustHost 美国纽约 NYC2 数据中心 Sirius 基础款 VPS 的真实测评数据，包括国内三网延迟表现、带宽速度测试、晚高峰稳定性分析以及路由追踪结果。通过跑分、流媒体解锁测试等多维度评估，帮助您了解纽约机房的实际性能表现。</description>
     </item>
     <item>
       <title>如何在 JustHost VPS 上配置 Swap 交换文件？</title>
