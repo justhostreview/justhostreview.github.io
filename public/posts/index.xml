@@ -16,6 +16,13 @@
       <description>本文深度测评 JustHost 拉脱维亚里加数据中心的 Sirius 基础款 VPS 性能表现，包含国内三网延迟数据、路由追踪、磁盘 I/O 读写速度等核心指标。通过真实测试数据，帮助您了解这款月付 5.86 美元 VPS 在欧洲节点的实际使用体验。</description>
     </item>
     <item>
+      <title>JustHost 哪个机房好？各机房性能实测对比表</title>
+      <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xuanze-jifang/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xuanze-jifang/</guid>
+      <description>JustHost 全机房性能基准测试数据汇总：包含 Sysbench CPU/内存测试、FIO 磁盘 IO、SpeedTest 网速、回国延迟和丢包率对比。一表看懂各机房性能差异，快速选择最适合你的机房配置。</description>
+    </item>
+    <item>
       <title>JustHost 英国伦敦 LON2 机房 VPS 全面实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/london-united-kingdom-lon2/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
