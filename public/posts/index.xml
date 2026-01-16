@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 巴西圣保罗机房怎么样？最新实测数据分享</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/sao-paulo-brazil-sao1/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/sao-paulo-brazil-sao1/</guid>
+      <description>本文深度测评 JustHost 巴西圣保罗数据中心的 Sirius 基础款 VPS 性能表现，包括国内三网延迟数据、下载上传速度实测、服务器稳定性分析以及适用场景推荐。通过多维度实测数据，帮助用户了解 JustHost 在南美的节点是否适合建站或业务部署需求。</description>
+    </item>
+    <item>
+      <title>JustHost 圣何塞机房速度怎么样？美西 VPS 延迟与性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/san-jose-usa-sjc1/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/san-jose-usa-sjc1/</guid>
+      <description>本文分享 JustHost 美国圣何塞(San Jose)数据中心 Sirius 基础款 VPS 的真实测评数据，包括国内三网延迟、丢包率、路由追踪、带宽速度、硬盘 I/O 性能等核心指标，为选购美西 VPS 的用户提供详实的参考依据，帮助您了解 JustHost 的实际表现。</description>
+    </item>
     <item>
       <title>JustHost 拉脱维亚里加机房 VPS 实测：网络与性能深度评测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/riga-latvia-rix1/</link>
