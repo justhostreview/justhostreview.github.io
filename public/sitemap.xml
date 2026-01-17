@@ -1,21 +1,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://justhostreview.github.io/posts/datacenter-reviews/stockholm-sweden-sto2/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/posts/datacenter-reviews/seattle-usa-sea1/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/posts/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://justhostreview.github.io/posts/datacenter-reviews/sao-paulo-brazil-sao1/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://justhostreview.github.io/posts/datacenter-reviews/san-jose-usa-sjc1/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://justhostreview.github.io/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://justhostreview.github.io/posts/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>

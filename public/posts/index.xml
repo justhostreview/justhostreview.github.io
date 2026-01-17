@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 瑞典斯德哥尔摩机房 VPS 性能实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/stockholm-sweden-sto2/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/stockholm-sweden-sto2/</guid>
+      <description>本文实测 JustHost 瑞典斯德哥尔摩数据中心 Sirius 套餐的真实性能表现，包括网络延迟、带宽速度、磁盘 I/O 等关键指标。通过详细的测试数据，帮助您了解这款月付 5.86 美元的北欧 VPS 是否适合您的建站或应用部署需求。</description>
+    </item>
+    <item>
+      <title>JustHost 西雅图机房 VPS 最新性能、网络等实测数据</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/seattle-usa-sea1/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/seattle-usa-sea1/</guid>
+      <description>本文详细测评 JustHost 美国西雅图数据中心 Sirius 基础款 VPS 主机性能表现，包括国内三网访问延迟、带宽速度、硬盘 IO 读写等关键指标，为有北美西海岸建站或应用部署需求的用户提供真实可靠的参考数据。</description>
+    </item>
     <item>
       <title>JustHost 巴西圣保罗机房怎么样？最新实测数据分享</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/sao-paulo-brazil-sao1/</link>
