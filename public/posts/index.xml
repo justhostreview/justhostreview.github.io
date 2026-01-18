@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 俄罗斯圣彼得堡节点怎么样？Sirius 全方位实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/st-petersburg-russia-led1/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/st-petersburg-russia-led1/</guid>
+      <description>本文通过实际部署 JustHost 圣彼得堡机房 Sirius 套餐，测试其在中国大陆的网络连接表现。包含延迟波动曲线、上下行带宽实测、路由追踪分析以及 Ubuntu 22.04 系统下的 I/O 性能数据，为需要俄罗斯节点的用户提供真实参考依据。</description>
+    </item>
+    <item>
+      <title>JustHost 希腊节点全面测试，月付 5 美元的塞萨洛尼基机房</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/thessaloniki-greece-skg1/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/thessaloniki-greece-skg1/</guid>
+      <description>针对 JustHost 部署在希腊塞萨洛尼基的巴尔干半岛节点进行详细性能测试，包括到中国大陆各省的 Ping 值分布、CPU 处理器性能、以及对比其他欧洲机房的优劣势分析，为跨境业务选址提供数据支持。</description>
+    </item>
     <item>
       <title>JustHost 瑞典斯德哥尔摩机房 VPS 性能实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/stockholm-sweden-sto2/</link>
