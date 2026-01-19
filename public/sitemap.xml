@@ -1,21 +1,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://justhostreview.github.io/posts/datacenter-reviews/tirana-albania-tia1/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/posts/datacenter-reviews/vienna-austria-vie1/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justhostreview.github.io/posts/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://justhostreview.github.io/posts/datacenter-reviews/st-petersburg-russia-led1/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://justhostreview.github.io/posts/datacenter-reviews/thessaloniki-greece-skg1/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://justhostreview.github.io/</loc>
-    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://justhostreview.github.io/posts/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
     <priority>0.5</priority>
   </url>

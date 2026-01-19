@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 阿尔巴尼亚地拉那机房延迟与速度实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/tirana-albania-tia1/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/tirana-albania-tia1/</guid>
+      <description>本文详细测评 JustHost 位于阿尔巴尼亚地拉那的数据中心，针对 Sirius 基础款 VPS(1核1G/20G NVMe)进行网络延迟、I/O 读写、带宽速率等关键指标的实际测试，包含国内三网路由跟踪与丢包率分析，为欧洲小众机房选型提供参考数据。</description>
+    </item>
+    <item>
+      <title>JustHost 维也纳数据中心 VPS 网络延迟与带宽实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/vienna-austria-vie1/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/vienna-austria-vie1/</guid>
+      <description>详细测试 JustHost 奥地利维也纳机房的网络性能表现，包括国内三网延迟数据、欧洲本地带宽速度、丢包率统计以及路由追踪分析。基于 Sirius 套餐 1C1G 配置，300Mbps 带宽下的真实使用体验分享。</description>
+    </item>
     <item>
       <title>JustHost 俄罗斯圣彼得堡节点怎么样？Sirius 全方位实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/st-petersburg-russia-led1/</link>
