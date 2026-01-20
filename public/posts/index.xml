@@ -6,8 +6,29 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JustHost 瑞士苏黎世 ZRH2 机房性能与网络延迟实测</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/zurich-switzerland-zrh2/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/zurich-switzerland-zrh2/</guid>
+      <description>本文详细测评 JustHost 瑞士苏黎世 ZRH2 机房 Sirius 基础款 VPS 性能表现，包含 CPU 跑分、硬盘读写速度、网络延迟、国内三网路由追踪等实测数据。该套餐配置为单核心、1GB 内存、20GB NVMe 存储及 300Mbps 共享带宽，月付 $5.86，适合需要欧洲节点的用户参考。</description>
+    </item>
+    <item>
+      <title>JustHost 苏黎世 ZRH1 机房基础款 VPS 性能详细测试结果</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/zurich-switzerland-zrh1/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/zurich-switzerland-zrh1/</guid>
+      <description>本文分享 JustHost 瑞士苏黎世 ZRH1 数据中心基础款 VPS 实测数据，包含延迟测试、带宽跑分、路由追踪等关键指标。采用 1 核 1GB 内存 20GB NVMe 存储配置，300Mbit 共享带宽，月付 5.86 美元。通过多维度测试展示该节点在欧洲中部地区的真实网络性能表现。</description>
+    </item>
+    <item>
+      <title>实测 JustHost 华沙机房，深度测评波兰 VPS 性能和延迟</title>
+      <link>https://justhostreview.github.io/posts/datacenter-reviews/warsaw-poland-waw1/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/datacenter-reviews/warsaw-poland-waw1/</guid>
+      <description>针对 JustHost 波兰华沙机房进行的专项性能测试，涵盖电信联通移动三网路由分析、I/O读写速度、CPU 性能跑分以及实际下载上传速率，帮助你判断这个月付不到 6 美元的欧洲节点是否值得选择。</description>
+    </item>
     <item>
       <title>JustHost 阿尔巴尼亚地拉那机房延迟与速度实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/tirana-albania-tia1/</link>
