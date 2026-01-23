@@ -202,7 +202,7 @@
       <link>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xufei-jiaocheng/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-xufei-jiaocheng/</guid>
-      <description>详细讲解 JustHost 主机续费的完整流程，包括自动续费设置方法、手动续费操作步骤、续费周期选择建议、续费时间节点提醒，以及续费过程中的常见问题解答和账户管理技巧。</description>
+      <description>详细讲解 JustHost 主机续费的完整流程，包括自动续费设置方法、账户充值操作步骤、续费周期选择建议、续费时间节点提醒，以及续费过程中的常见问题解答和账户管理技巧。</description>
     </item>
     <item>
       <title>JustHost 摩尔多瓦基希讷乌机房速度测试与性能评测</title>
@@ -329,6 +329,13 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://justhostreview.github.io/posts/justhost-promo-codes/</guid>
       <description>实时更新 JustHost 最新优惠码和促销代码，涵盖 VPS 主机等多种产品的有效折扣信息。所有优惠码均经过验证，确保真实可用，帮助您以最优惠、最省心的价格购买 JustHost 主机服务。</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
