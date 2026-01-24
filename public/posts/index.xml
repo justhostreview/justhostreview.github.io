@@ -6,8 +6,15 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>怎么测试 VPS 性能？我该怎么判断服务器性能怎么样？</title>
+      <link>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</guid>
+      <description>详细介绍 VPS 服务器性能测试的完整方法，包括 CPU 跑分、内存速度、硬盘 I/O、网络带宽等核心指标的测试工具和判断标准，帮助你全面评估 VPS 主机的实际性能表现。</description>
+    </item>
     <item>
       <title>JustHost 瑞士苏黎世 ZRH2 机房性能与网络延迟实测</title>
       <link>https://justhostreview.github.io/posts/datacenter-reviews/zurich-switzerland-zrh2/</link>
@@ -329,13 +336,6 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://justhostreview.github.io/posts/justhost-promo-codes/</guid>
       <description>实时更新 JustHost 最新优惠码和促销代码，涵盖 VPS 主机等多种产品的有效折扣信息。所有优惠码均经过验证，确保真实可用，帮助您以最优惠、最省心的价格购买 JustHost 主机服务。</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://justhostreview.github.io/posts/vps-tutorials/vps-xingneng-ceshi/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
