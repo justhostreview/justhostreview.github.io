@@ -6,8 +6,22 @@
     <description>Recent content in 全部文章 on JustHost 实验室</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://justhostreview.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 年金秋 JustHost 促销：32 机房最高 6 折优惠码</title>
+      <link>https://justhostreview.github.io/posts/news/justhost-autumn-2026/</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/news/justhost-autumn-2026/</guid>
+      <description>JustHost 开启 2026 金秋限时大促，覆盖香港、东京、新加坡、美西、欧洲等 32 个热门数据中心。提供首期 6 折优惠码 GOLD40，以及终身续费不涨价的 6.5 折循环优惠码 GOLD35。支持支付宝付款，活动截至 10 月 18 日。</description>
+    </item>
+    <item>
+      <title>JustHost 优惠码最新汇总 - 持续更新有效折扣代码</title>
+      <link>https://justhostreview.github.io/posts/justhost-promo-codes/</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://justhostreview.github.io/posts/justhost-promo-codes/</guid>
+      <description>实时更新 JustHost 最新优惠码和促销代码，涵盖 VPS 主机等多种产品的有效折扣信息。所有优惠码均经过验证，确保真实可用，帮助您以最优惠、最省心的价格购买 JustHost 主机服务。</description>
+    </item>
     <item>
       <title>2026 年夏季 JustHost 促销：30 机房最高 50% 折扣优惠</title>
       <link>https://justhostreview.github.io/posts/news/justhost-summer-2026/</link>
@@ -357,13 +371,6 @@
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://justhostreview.github.io/posts/justhost-tutorials/justhost-vps-goumai-jiaocheng/</guid>
       <description>本文将详细讲解 JustHost VPS 的购买全过程，涵盖账户注册、套餐选择、优惠码的正确使用、支付方式说明以及订单确认等关键步骤，不涉及服务器配置教程，重点帮助新手用户更加轻松、快速地完成 VPS 的购买与初始开通操作，减少踩坑。</description>
-    </item>
-    <item>
-      <title>JustHost 优惠码最新汇总 - 持续更新有效折扣代码</title>
-      <link>https://justhostreview.github.io/posts/justhost-promo-codes/</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://justhostreview.github.io/posts/justhost-promo-codes/</guid>
-      <description>实时更新 JustHost 最新优惠码和促销代码，涵盖 VPS 主机等多种产品的有效折扣信息。所有优惠码均经过验证，确保真实可用，帮助您以最优惠、最省心的价格购买 JustHost 主机服务。</description>
     </item>
   </channel>
 </rss>
